@@ -1,1 +1,1 @@
-# program_practice_c-
+# 這裡存放Ｃ++的練習程式和blog文章中的程式
