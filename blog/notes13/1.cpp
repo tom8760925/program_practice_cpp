@@ -5,7 +5,6 @@
 #include <unistd.h>
 #include <sys/types.h>
 #include <stdio.h>
-#include <netinet/in.h>
 #include <sys/time.h>
 #include <sys/ioctl.h>
 #include <stdlib.h>
